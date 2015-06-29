@@ -1,6 +1,6 @@
 .DS_Store
-.openshift
-.idea
+.openshift/
+.idea/
 
 application/cache/*
 !application/cache/index.html
