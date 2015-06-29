@@ -1,0 +1,10 @@
+.DS_Store
+.openshift
+ origin https://github.com/joeyzhou2147/yuzhou.us.git
+application/cache/*
+!application/cache/index.html
+!application/cache/.htaccess
+
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
